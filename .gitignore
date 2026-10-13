@@ -1,3 +1,5 @@
 # executables from CMake
 build/
 Makefile
+.vscode/
+*.dSYM/

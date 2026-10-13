@@ -4,9 +4,11 @@
 namespace torchcpp {
 
 class Tensor {
-public:
+  public:
     Tensor();
     
+  private:
+    hello;
     
 };
 
